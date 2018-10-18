@@ -9,6 +9,13 @@ React Native allows you to create mobile apps with the help of JavaScript, which
 Installation:
 ```npm i -g create-react-native-app```
 
+```npm install -g expo-cli```
+
+``expo init AwesomeProject
+  cd AwesomeProject
+  npm start```
+
+
 Create a React Native App:
 ```create-react-native-app my-project
 cd my-project
@@ -18,7 +25,7 @@ npm start```
 
 **Pros:**
 Time Saver 
-Just code once - provides support for iOS and Android platforms
+Just code once - provides support for both iOS and Android platforms
 
 Only supports "native" compoenents (not HTML)
 
