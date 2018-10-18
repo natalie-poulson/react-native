@@ -19,11 +19,13 @@ Installation:
 ```
 
 
-```expo init AwesomeProject
+```
+   expo init AwesomeProject
 
-cd AwesomeProject
+   cd AwesomeProject
  
-   expo start```
+   expo start
+```
 
 
 ## Our findings
