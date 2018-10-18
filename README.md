@@ -12,7 +12,7 @@ Installation:
  ```npm install -g expo-cli```
 
 
-``expo init AwesomeProject
+```expo init AwesomeProject
   cd AwesomeProject
   npm start```
 
