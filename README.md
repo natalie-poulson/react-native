@@ -8,29 +8,29 @@ React Native allows you to build mobile apps with JavaScript and React, and is s
 Installation:
 
 ```npm i -g create-react-native-app```
+
  ```npm install -g expo-cli```
 
 
 Create an Awesome Project:
-``expo init AwesomeProject
-  cd AwesomeProject
-  npm start```
+``expo init AwesomeProject```
+ ```cd AwesomeProject```
+ ```npm start```
 
-
-Create a React Native App:
-```create-react-native-app my-project
-cd my-project
-npm start```
 
 ## Our findings
 
 **Pros:**
-Time Saver 
-Just code once - provides support for both iOS and Android platforms
+It's Cross-Platform Usage
+ -Time saver -just code once - provides support for both iOS and Android platforms
 
 Only supports "native" compoenents (not HTML)
 
 You can publish in the app store
+**Cons:**
+- It's improving with time 
+- I
+
 
 ## Resources:
 
