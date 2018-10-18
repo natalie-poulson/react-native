@@ -12,7 +12,6 @@ Installation:
  ```npm install -g expo-cli```
 
 
-Create an Awesome Project:
 ``expo init AwesomeProject```
  ```cd AwesomeProject```
  ```npm start```
