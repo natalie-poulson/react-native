@@ -33,4 +33,5 @@ You can publish in the app store
 
 
 ## Resources:
+https://facebook.github.io/react-native/
 
