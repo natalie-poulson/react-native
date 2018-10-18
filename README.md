@@ -6,10 +6,12 @@ React Native allows you to build mobile apps with JavaScript and React, and is s
 
 ## Tutorial:
 Installation:
+
 ```npm i -g create-react-native-app```
+ ```npm install -g expo-cli```
 
-```npm install -g expo-cli```
 
+Create an Awesome Project:
 ``expo init AwesomeProject
   cd AwesomeProject
   npm start```
