@@ -22,13 +22,15 @@ Installation:
 
 ## Our findings
 
+
 **Cross-Platform Usage**
  * Time saver. Just code once - provides support for both iOS and Android platforms
+ 
 
 **Only supports "native" compoenents (not HTML)**
 
-**Relatively new (2015)**
 
+**Relatively new (2015)**
 
 
 
