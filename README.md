@@ -15,11 +15,11 @@ Installation:
 ```npm i -g create-react-native-app```
 
 
-```expo init AwesomeProject```
+```expo init AwesomeProject
 
- ```cd AwesomeProject```
+   cd AwesomeProject
  
- ```npm start```
+   expo start```
 
 
 ## Our findings
