@@ -2,8 +2,7 @@
 
 
 ## What is React-Native?
-React Native allows you to create mobile apps with the help of JavaScript, which is supportable for both android and iOS platforms.  
-
+React Native allows you to build mobile apps with JavaScript and React, and is supportable for both android and iOS platforms.  
 
 ## Tutorial:
 Installation:
