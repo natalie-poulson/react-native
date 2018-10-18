@@ -45,3 +45,5 @@ Installation:
 ## Resources:
 https://facebook.github.io/react-native/
 
+https://medium.com/@thinkwik/react-native-what-is-it-and-why-is-it-used-b132c3581df
+
